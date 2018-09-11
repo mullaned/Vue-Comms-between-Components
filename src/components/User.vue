@@ -27,7 +27,7 @@
         },
         methods: {
             changeName(){
-                this.name = 'Anna'
+                return this.name = 'Anna'
             }
         },
         components: {
